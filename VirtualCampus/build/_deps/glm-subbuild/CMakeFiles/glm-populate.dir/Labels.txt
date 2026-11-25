@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/CMakeFiles/glm-populate.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule

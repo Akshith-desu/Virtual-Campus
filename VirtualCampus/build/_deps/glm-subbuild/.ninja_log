@@ -1,0 +1,21 @@
+# ninja log v7
+1	80	8172940945807424	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	4e6e19acb96ce054
+1	80	8172940945807424	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	4e6e19acb96ce054
+81	95047	8172941895475536	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	265c24a2666bc6b3
+81	95047	8172941895475536	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	265c24a2666bc6b3
+95047	95626	8172941895524901	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	d7765b413d80c383
+95047	95626	8172941895524901	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	d7765b413d80c383
+95627	95692	8172941901934854	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	418045f4ff16d4f7
+95627	95692	8172941901934854	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	418045f4ff16d4f7
+95692	95753	8172941902533889	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	ece1973c1e0d105e
+95692	95753	8172941902533889	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	ece1973c1e0d105e
+95753	95810	8172941903103871	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	b103953c613ce769
+95753	95810	8172941903103871	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	b103953c613ce769
+95810	95874	8172941903743878	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	8f6c4e1d35ebe799
+95810	95874	8172941903743878	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	8f6c4e1d35ebe799
+95874	95937	8172941904373867	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	cb12cf22765b914
+95874	95937	8172941904373867	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	cb12cf22765b914
+95937	96025	8172941905253870	CMakeFiles/glm-populate-complete	3714a0d704b77bf8
+95937	96025	8172941905253870	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	3714a0d704b77bf8
+95937	96025	8172941905253870	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	3714a0d704b77bf8
+95937	96025	8172941905253870	C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	3714a0d704b77bf8

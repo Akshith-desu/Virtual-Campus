@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/projects/VirtualCampus/VirtualCampus/build/cmake_install.cmake",
+		"C:/projects/VirtualCampus/VirtualCampus/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/projects/VirtualCampus/VirtualCampus/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-build/cmake_install.cmake",
+		"C:/projects/VirtualCampus/VirtualCampus/build/_deps/glm-build/glm/cmake_install.cmake",
+		"C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

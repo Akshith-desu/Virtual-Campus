@@ -1,0 +1,21 @@
+# ninja log v7
+1	69	8172941935104917	stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	ad88744cd22a3b9a
+1	69	8172941935104917	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	ad88744cd22a3b9a
+69	11608	8172942050492087	stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	aeb4a32108e9cf12
+69	11608	8172942050492087	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	aeb4a32108e9cf12
+11608	15187	8172942050551980	stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	9938c87d7b13559d
+11608	15187	8172942050551980	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	9938c87d7b13559d
+15188	15253	8172942086953278	stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	acf89c0f38506838
+15188	15253	8172942086953278	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	acf89c0f38506838
+15253	15306	8172942087483273	stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	af6c736bd3905dda
+15253	15306	8172942087483273	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	af6c736bd3905dda
+15306	15366	8172942088083271	stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	d88bbdd39245e0aa
+15306	15366	8172942088083271	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	d88bbdd39245e0aa
+15366	15433	8172942088743463	stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	e1fc9f729571c05b
+15366	15433	8172942088743463	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	e1fc9f729571c05b
+15433	15494	8172942089363297	stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	419f883cb4b3105b
+15433	15494	8172942089363297	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	419f883cb4b3105b
+15494	15572	8172942090133273	CMakeFiles/stb-populate-complete	45f825ff90d3c99e
+15494	15572	8172942090133273	stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	45f825ff90d3c99e
+15494	15572	8172942090133273	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/CMakeFiles/stb-populate-complete	45f825ff90d3c99e
+15494	15572	8172942090133273	C:/projects/VirtualCampus/VirtualCampus/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	45f825ff90d3c99e

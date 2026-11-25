@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/CMakeFiles/json-populate
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

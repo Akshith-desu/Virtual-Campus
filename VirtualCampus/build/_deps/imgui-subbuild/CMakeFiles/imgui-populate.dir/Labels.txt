@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test.rule
+C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update.rule

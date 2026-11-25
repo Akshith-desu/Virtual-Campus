@@ -1,0 +1,21 @@
+# ninja log v7
+2	75	8172942093263283	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	a7fd81297db2f0c0
+2	75	8172942093263283	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	a7fd81297db2f0c0
+75	24184	8172942334363752	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	393395f8cc33656b
+75	24184	8172942334363752	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	393395f8cc33656b
+24184	24766	8172942334407286	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	dfdc8e3818598194
+24184	24766	8172942334407286	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	dfdc8e3818598194
+24767	24833	8172942340853686	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	f44bbd1294aa6db8
+24767	24833	8172942340853686	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	f44bbd1294aa6db8
+24833	24899	8172942341508086	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	417e77fd1344c893
+24833	24899	8172942341508086	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	417e77fd1344c893
+24899	24962	8172942342139880	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	ef48bcc4cfd9906b
+24899	24962	8172942342139880	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	ef48bcc4cfd9906b
+24962	25025	8172942342769880	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	fbad4fb56f809ad6
+24962	25025	8172942342769880	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	fbad4fb56f809ad6
+25026	25086	8172942343382218	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	5fa8ff92a9db6de1
+25026	25086	8172942343382218	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	5fa8ff92a9db6de1
+25086	25175	8172942344266278	CMakeFiles/imgui-populate-complete	ba46356cb9a63a22
+25086	25175	8172942344266278	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	ba46356cb9a63a22
+25086	25175	8172942344266278	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	ba46356cb9a63a22
+25086	25175	8172942344266278	C:/projects/VirtualCampus/VirtualCampus/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	ba46356cb9a63a22
